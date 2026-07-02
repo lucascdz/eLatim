@@ -1,7 +1,7 @@
 # eLatim
 léxico latino eletrônico (Latin-Portuguese bilingual resource)
 
-this version (v1.2.200) contains information from lexical databases, legacy dictionaries and corous data for the 200 more frequently used Latin lemmas
+this version (v1.2.200) covers the 200 most frequently used Latin lemmas, providing information in Portuguese drawn from lexical databases, legacy dictionaries, and corpus data
 
 see the preface for further information (in portuguese only, english version available soon)
 
